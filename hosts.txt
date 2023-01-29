@@ -3,33 +3,33 @@
 
 #pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
 #---------------------------------------------
-127.0.0.1 livew.l.qq.com #-> 腾讯视频
-127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
-127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
+#127.0.0.1 livew.l.qq.com #-> 腾讯视频
+#127.0.0.1 t7z.cupid.iqiyi.com #-> 爱奇艺
+#127.0.0.1 wxsnsdy.wxs.qq.com #-> 微信
 #---------------------------------------------
 #--下列会影响奖励形式的广告(小程序\小游戏等)
-127.0.0.1 is.snssdk.com
-127.0.0.1 adsmind.gdtimg.com
-127.0.0.1 pv.sohu.com
-127.0.0.1 gw.365you.com
-127.0.0.1 x.adnet.qq.com
-127.0.0.1 mi.gdt.qq.com
-127.0.0.1 c.gdt.qq.com
-127.0.0.1 d.gdt.qq.com
-127.0.0.1 i.gdt.qq.com
-127.0.0.1 m.gdt.qq.com
-127.0.0.1 t.gdt.qq.com
-127.0.0.1 v.gdt.qq.com
-127.0.0.1 q.i.gdt.qq.com
-127.0.0.1 v2.gdt.qq.com
-127.0.0.1 ii.gdt.qq.com
-127.0.0.1 rm.gdt.qq.com
-127.0.0.1 nc.gdt.qq.com
-127.0.0.1 vr.gdt.qq.com
-127.0.0.1 rpt.gdt.qq.com
-127.0.0.1 win.gdt.qq.com
-127.0.0.1 ipv4.gdt.qq.com
-127.0.0.1 v6ii.gdt.qq.com
+#127.0.0.1 is.snssdk.com
+#127.0.0.1 adsmind.gdtimg.com
+#127.0.0.1 pv.sohu.com
+#127.0.0.1 gw.365you.com
+#127.0.0.1 x.adnet.qq.com
+#127.0.0.1 mi.gdt.qq.com
+#127.0.0.1 c.gdt.qq.com
+#127.0.0.1 d.gdt.qq.com
+#127.0.0.1 i.gdt.qq.com
+#127.0.0.1 m.gdt.qq.com
+#127.0.0.1 t.gdt.qq.com
+#127.0.0.1 v.gdt.qq.com
+#127.0.0.1 q.i.gdt.qq.com
+#127.0.0.1 v2.gdt.qq.com
+#127.0.0.1 ii.gdt.qq.com
+#127.0.0.1 rm.gdt.qq.com
+#127.0.0.1 nc.gdt.qq.com
+#127.0.0.1 vr.gdt.qq.com
+#127.0.0.1 rpt.gdt.qq.com
+#127.0.0.1 win.gdt.qq.com
+#127.0.0.1 ipv4.gdt.qq.com
+#127.0.0.1 v6ii.gdt.qq.com
 
 #pkg=ad.xiaomi.com;视频客户端广告
 #--小米视频-MIUI
